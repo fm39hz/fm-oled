@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Forsest Oled",
+        "label": "Forest Oled",
         "uiTheme": "vs-dark",
-        "path": "./themes/Forsest Oled-color-theme.json"
+        "path": "./themes/Forest Oled-color-theme.json"
       }
     ]
   }
