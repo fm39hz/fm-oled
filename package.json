@@ -1,0 +1,21 @@
+{
+  "name": "fm-oled",
+  "displayName": "FM Oled",
+  "description": "Oled theme with forest vibe",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forsest Oled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forsest Oled-color-theme.json"
+      }
+    ]
+  }
+}
