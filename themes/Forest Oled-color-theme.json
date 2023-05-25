@@ -549,6 +549,13 @@
 		}
 	  },
 	  {
+		"name": "Variables property",
+		"scope": "variable.other.property",
+		"settings": {
+		  "foreground": "#c297d1f7"
+		}
+	  },
+	  {
 		"name": "Variables",
 		"scope": "variable.c",
 		"settings": {
