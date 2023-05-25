@@ -1,21 +1,25 @@
 {
-  "name": "fm-oled",
-  "displayName": "FM Oled",
-  "description": "Oled theme with forest vibe",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.78.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Forest Oled",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Forest Oled-color-theme.json"
-      }
-    ]
-  }
+	"name": "fm-oled",
+	"displayName": "FM Oled",
+	"description": "Oled theme with forest vibe",
+	"version": "0.0.2",
+	"engines": {
+	"vscode": "^1.78.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fm39hz/fm-oled.git"
+	},
+	"categories": [
+	"Themes"
+	],
+	"contributes": {
+	"themes": [
+	{
+		"label": "Forest Oled",
+		"uiTheme": "vs-dark",
+		"path": "./themes/Forest Oled-color-theme.json"
+			}
+		]
+	}
 }
